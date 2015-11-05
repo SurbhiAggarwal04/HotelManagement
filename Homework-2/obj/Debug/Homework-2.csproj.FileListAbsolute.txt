@@ -1,0 +1,12 @@
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\Homework-2\bin\Debug\Homework-2.exe.config
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\Homework-2\bin\Debug\Homework-2.exe
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\Homework-2\bin\Debug\Homework-2.pdb
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\Homework-2\obj\Debug\Homework-2.csprojResolveAssemblyReference.cache
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\Homework-2\obj\Debug\Homework-2.exe
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\Homework-2\obj\Debug\Homework-2.pdb
+C:\Users\surbhi\Documents\ASU-SEM1\DSOD\Surbhi_Aggarwal_Homework\Homework-2\Homework-2\bin\Debug\Homework-2.exe.config
+C:\Users\surbhi\Documents\ASU-SEM1\DSOD\Surbhi_Aggarwal_Homework\Homework-2\Homework-2\obj\Debug\Homework-2.exe
+C:\Users\surbhi\Documents\ASU-SEM1\DSOD\Surbhi_Aggarwal_Homework\Homework-2\Homework-2\obj\Debug\Homework-2.pdb
+C:\Users\surbhi\Documents\ASU-SEM1\DSOD\Surbhi_Aggarwal_Homework\Homework-2\Homework-2\bin\Debug\Homework-2.exe
+C:\Users\surbhi\Documents\ASU-SEM1\DSOD\Surbhi_Aggarwal_Homework\Homework-2\Homework-2\bin\Debug\Homework-2.pdb
+C:\Users\surbhi\Documents\ASU-SEM1\DSOD\Surbhi_Aggarwal_Homework\Homework-2\Homework-2\obj\Debug\Homework-2.csprojResolveAssemblyReference.cache

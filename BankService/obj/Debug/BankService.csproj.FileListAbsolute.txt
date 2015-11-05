@@ -1,0 +1,6 @@
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\BankService\bin\BankService.dll.config
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\BankService\bin\BankService.dll
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\BankService\bin\BankService.pdb
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\BankService\obj\Debug\BankService.csprojResolveAssemblyReference.cache
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\BankService\obj\Debug\BankService.dll
+c:\users\surbhi\documents\visual studio 2013\Projects\Homework-2\BankService\obj\Debug\BankService.pdb
